@@ -1,12 +1,26 @@
 #core {
     width: 100%;
-    margin: 50px 50px 0 50px;
+    text-align: center;
 }
 
 #user {
-    width: 300px;
+    width: 20%;
+    margin: 0 40% 0 40%;
+    text-align: center;
 }
 
 pre {
     width: 80%;
+}
+
+h2 {
+    color: aliceblue;
+    background-color: black;
+    padding: 2% 0 2% 0;
+}
+
+.border {
+    border: 5px solid black;
+    margin: 1% 5%;
+    padding: 1%;
 }
